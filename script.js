@@ -250,7 +250,7 @@ function launchPinball() {
       <div class="titlebar-btns"><span class="tb-btn">_</span><span class="tb-btn">□</span><span class="tb-btn tb-close">✕</span></div>
     </div>
     <div class="menubar"><span>Game</span><span>Options</span><span>Help</span></div>
-    <iframe class="pinball-frame" src="https://alula.github.io/SpaceCadetPinball/" title="3D Pinball"></iframe>`;
+    <iframe class="pinball-frame" src="https://pinball.alula.me/" title="3D Pinball"></iframe>`;
   desktop.appendChild(el);
   el.style.width = "620px";
   el.style.height = "520px";
